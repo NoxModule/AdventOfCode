@@ -1,5 +1,4 @@
 # Advent of Code
-
 My solutions for [Advent of Code](https://adventofcode.com/) problems.
 
 ## Goals
@@ -7,5 +6,5 @@ My solutions for [Advent of Code](https://adventofcode.com/) problems.
 1. Every year use a different language.
 1. Use few 3rd-libraries.
 
-## Year's Language
-- **2024:** Haskell
+## Years
+- [**2024**](./2024/ReadMe.md) using [Haskell](https://www.haskell.org/)

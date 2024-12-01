@@ -1,2 +1,6 @@
 # Generic ignore rule
 *.ignore*
+
+# Haskell binary output directory
+/2024/target/*
+!/2024/target/.gitkeep
