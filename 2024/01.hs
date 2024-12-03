@@ -1,6 +1,7 @@
 import Data.List (group, lookup, sort)
 import Data.Maybe (fromMaybe)
 import System.IO (readFile)
+import Utility (toNumbers)
 
 main :: IO ()
 main = do
@@ -19,6 +20,3 @@ splitAlternating xs = (evenValues, oddValues)
   where
     evenValues = [value | (value, i) <- zip xs [0 ..], even i]
     oddValues = [value | (value, i) <- zip xs [0 ..], odd i]
-
-toNumbers :: String -> [Int]
-toNumbers = map read . words
