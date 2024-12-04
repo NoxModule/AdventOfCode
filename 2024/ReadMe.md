@@ -2,11 +2,15 @@
 **Year's Language:** [Haskell](https://www.haskell.org/)
 
 ## Completed Solutions
-\# | Part 1 | Part 2 
---- | --- | ---
-1 | [ x ] | [ x ]
-2 | [ x ] | [   ]
-3 | [   ] | [   ]
+- ✅ - Finished On-time
+- ⚠️ - Finished Late
+- ❌ - Didn't Finish
+- ⛔ - Didn't Start
+
+ \#        |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 | 13 |  14 |  15 |  16 |  17 |  18 |  19 |  20 |  21 |  22 |  23 |  24 |  25
+---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+**Part 1** | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔
+**Part 2** | ✅ | ⚠️ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔
 
 ## Running a Solution
 1. Compile the solution using `ghc`. Example below shows how to compile the first solution.
