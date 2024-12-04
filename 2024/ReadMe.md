@@ -2,8 +2,8 @@
 **Year's Language:** [Haskell](https://www.haskell.org/)
 
 ## Completed Solutions
-- ✅ - Finished On-time
-- ⚠️ - Finished Late
+- ✅ - Finished On-time (< 24h)
+- ⚠️ - Finished Late (> 24h)
 - ❌ - Didn't Finish
 - ⛔ - Didn't Start
 
